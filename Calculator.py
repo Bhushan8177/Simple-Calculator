@@ -1,7 +1,7 @@
 # Simple-Calculator using Python
 
 
-print("This is a SIMPLE CALCULATOR")
+print("This is a SIMPLE calci")
 def sum(a,b):
     a+=b
     return a
